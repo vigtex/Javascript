@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maior e menor de idade</title>
+</head>
+<body>
+	<strong><h2>
+		Ler a idade das pessoas e mostrar quantas são maiores e quantas são menores de 18 anos
+	</h2></strong>
+<script>
+/*
+Ler a idade das pessoas e mostrar quantas são maiores e quantas são menores de 18 anos
+*/
+
+let tf = true;
+let idades = [ ];
+let contador = 0;
+let contador18 = 0;
+let encerraPrograma = "N";
+
+do
+{
+idades[contador] = prompt("Digite a "+ (contador+1) +"ª idade: ");
+console.log(idades[contador]);
+if (idades[contador]>=18)
+{
+contador18++;
+}
+console.log(contador18 + " pessoas são maiores de 18 anos.");
+console.log((contador + 1) - contador18 + " pessoas são menores de 18 anos.");
+contador++;
+encerraPrograma = prompt("Encerra o programa? S ou N");
+if(encerraPrograma == "S")
+{
+tf = false;
+}
+}while(tf==true );
+
+</script>
+</body>
+</html>

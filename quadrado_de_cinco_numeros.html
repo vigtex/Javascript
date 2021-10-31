@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quadrado de 5 números</title>
+</head>
+<body>
+	<script>
+		
+		/*
+		Ler 5 notas e mostrar o quadrado delas
+		*/
+
+
+		let nota = [ ];
+		let contador = 0;
+		do
+		{
+			nota[contador] = prompt("Escreva aqui a "+(contador+1) + "ª nota");
+			console.log((contador + 1)+"ª nota ao quadrado é: "+ (nota[contador]*nota[contador]));
+			contador++
+		}while(contador<=4);
+	</script>
+
+</body>
+</html>
