@@ -1,0 +1,33 @@
+#top
+{
+	width: 97%;
+	float: top;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightblue;
+}
+#coluna_esquerda
+{
+	width: 47%;
+	float: left;
+	padding: 20px;
+	margin: 20px;
+	background-color: gray;
+}
+#coluna_direita
+{
+	width: 47%;
+	float: right;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightgray;
+}
+.tamanho_cor
+{
+	width: 400px;
+	height: 40px;
+}
+.tamanho_coluna
+{
+	width: 1000px;
+}
