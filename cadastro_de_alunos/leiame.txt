@@ -1,0 +1,7 @@
+11/01/2022
+Projeto básico, usando CSS próprio e Bootstrap, feito para a seleção de Janeiro de 2022 de bolsas de estudo.
+Testado no Google Chrome versão 96.0.4664.110
+
+Virgilio Teixeira
+51 98160 9501
+virgilio.teixeira@outlook.com
