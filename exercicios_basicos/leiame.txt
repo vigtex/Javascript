@@ -1,0 +1,12 @@
+17/01/2022
+
+Aqui, 4 exercícios bem simples e básicos de JS.
+Foram feitos juntos ao canal Curso em Vídeo (https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ).
+Imagens feitas no PowerPoint, Paint, Microsoft Picture Manager e o site https://www.online-image-editor.com/
+Em todos ele, fiz algum incremento, afim de mostrar entendimento do assunto em questão.
+Todos testados no Chrome 97.0.4692.71 e feitos a partir do VisualStudioCode e Sublime.
+Att.
+
+Virgilio Teixeira
+virgilio.teixeira@outlook.com
+51 98160 9501

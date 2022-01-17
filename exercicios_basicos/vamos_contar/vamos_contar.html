@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vamos contar</title>
+    <link rel="stylesheet" href="vamos_contar_style.css">
+</head>
+<body>
+    <header>
+        <h1>Vamos contar</h1>
+    </header>
+    <section>
+        <div>
+            <table>
+                <tr>
+                    <td>Início: </td>
+                    <td><input type="number" name="ini" id="ini"></td>
+                </tr>
+                <tr>
+                    <td>Fim: </td>
+                    <td><input type="number" name="fim" id="fim"></td>
+                </tr>
+                <tr>
+                    <td>Passo: </td>
+                    <td><input type="number" name="pas" id="pas"></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <center>
+                            <input type="button" value="Executar" onclick="programaPasso()">
+                        </center>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="res">
+            
+        </div>
+    </section>
+    <footer>
+        <p>&copy; CursoemVideo</p>
+    </footer>
+    <script src="vamos_contar_script.js"></script>
+</body>
+</html>
