@@ -1,0 +1,9 @@
+﻿Update básico usando Javascript.
+Aqui fiz a tabela ser refeita toda vez que há um update. 
+Obviamente há soluções melhores, mas queria ver como ficaria desta forma na idéia que eu tive.
+Tb a cor de fundo e título mudam quando vai de cadastro para update e os botões ficam desabilitados quando nao estão em sua operação.
+Tratamento de erros básico, ainda não setando o cursor onde faltam estes nem mostrando de forma visual (mudando a cor do input quando faltam dados), somente alertas básicos, tanto no cadastro quanto na alteração.
+
+virgilio.teixeira@outlook.com
+
+51 981609501
