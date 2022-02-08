@@ -1,0 +1,14 @@
+11/01/2022
+Projeto básico, usando CSS próprio e Bootstrap, feito para a seleção de Janeiro de 2022 de bolsas de estudo.
+Testado no Google Chrome versão 96.0.4664.110
+
+07/02/2022
+Cadastro de Alunos  3.0
+Melhorias adicionadas 
+- Validação de praticamente todos os campos (não encontrei uma validação de data que me deixasse satisfeito)
+- Cursor foca onde está o erro
+- Botão "Cancelar" - limpa todos os dados da tela
+
+Virgilio Teixeira
+51 98160 9501
+virgilio.teixeira@outlook.com

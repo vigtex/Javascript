@@ -1,0 +1,42 @@
+#top
+{
+	width: 97%;
+	float: top;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightblue;
+}
+#spanAlunos
+{
+	font-size: 25px;
+}
+#coluna
+{
+	width: 70%;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightgray;
+}
+.tamanho_cor
+{
+	width: 400px;
+	height: 40px;
+}
+.tamanho_coluna
+{
+	width: 1000px;
+}
+
+
+
+table 
+{
+  text-align: center;
+  /*font-family: sans-serif;*/
+  background:#fafafa ;
+  margin: 2px;
+  width: 100%;
+}
+
+tr:nth-child(even) {background: #FFF}
+tr:nth-child(odd) {background: #EEE}
